@@ -1,0 +1,12 @@
+name: TDS_2025
+title: TDS_2025
+username: adrifelcha
+account: adrifelcha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14017529
+bundleId: 9811407
+url: https://adrifelcha.shinyapps.io/TDS_2025/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
